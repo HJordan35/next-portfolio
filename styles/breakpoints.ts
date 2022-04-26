@@ -1,0 +1,11 @@
+export const breakpoints = {
+  "phone-sm": "320px",
+  "phone-md": "375px",
+  "phone-lg": "425px",
+  "tablet-sm": "560px",
+  "tablet-md": "640px",
+  "tablet-lg": "768px",
+  laptop: "1024px",
+  desktop: "1440px",
+  container: "1200px",
+};
